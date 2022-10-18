@@ -1,3 +1,3 @@
 # Ranking-Chart
 Ranking chart
-We have another fine for testing our capacity
+We have another fine to testing our capacity
